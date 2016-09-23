@@ -2,7 +2,6 @@
 Created by: Jill Budden
 Client: GM Apprentice
 Test: TMCB 5.2 (TMCB 5.0 + experimental items)
-Date: February/March 2008
 *******************************************************************************
 *******************************************************************************
 
@@ -16,7 +15,7 @@ Hand merged "Merged_Parma, Grand Blanc, Bedford.sav" into "GM Apprentice 2.18.08
 2) Type the current date into column right of the birthdate column in excel 
 3) Convert the current date into a number 
 4) Subtract the birthdate number from the current date number 
-5) Divide the difference by 364.25 to get the person’s age 
+5) Divide the difference by 364.25 to get the personâ€™s age 
 6) Paste that column back into SPSS.  
 
 *Hand entered some additional criteria data
@@ -1885,11 +1884,11 @@ CR2	'157 - CR WORK ETHIC PROBLEM 1 - The small company next door is going to hir
 CR3	'158 - CR WORK ETHIC PROBLEM 1 (CORRECT) - Both the company and employees will need to work harder before the company will be profitable.'
 CR4	'159 - CR WORK ETHIC PROBLEM 1 - The company will hire temporary workers.'
 CR5	'160 - CR WORK ETHIC PROBLEM 2 - The new employee is planning to arrive at work early each morning.'
-CR6	'161 - CR WORK ETHIC PROBLEM 2 (INCORRECT) - The new employee wants to become friends with Kate so she has someone to talk to when she doesn’t feel like working.'
+CR6	'161 - CR WORK ETHIC PROBLEM 2 (INCORRECT) - The new employee wants to become friends with Kate so she has someone to talk to when she doesnâ€™t feel like working.'
 CR7	'162 - CR WORK ETHIC PROBLEM 2 - The new employee has a better work area than Kate.'
-CR8	'163 - CR WORK ETHIC PROBLEM 2 (CORRECT) -The new employee is watching Kate because she wants to learn Kate’s work ethic.'
+CR8	'163 - CR WORK ETHIC PROBLEM 2 (CORRECT) -The new employee is watching Kate because she wants to learn Kateâ€™s work ethic.'
 CR9	'164 - CR WORK ETHIC PROBLEM 3 - Productivity would increase if employees were given company cars.'
-CR10	'165 - CR WORK ETHIC PROBLEM 3 (CORRECT) - Productivity would increase if managers checked on employees just once a day… employees could get more work done with minimal distraction.'
+CR10	'165 - CR WORK ETHIC PROBLEM 3 (CORRECT) - Productivity would increase if managers checked on employees just once a dayâ€¦ employees could get more work done with minimal distraction.'
 CR11	'166 - CR WORK ETHIC PROBLEM 3 (INCORRECT) - Productivity would increase if work load was distributed among more employees.'
 CR12	'167 - CR WORK ETHIC PROBLEM 3 - Productivity would increase if company offices would get remodeled.'
 CR13	'168 - CR WORK ETHIC PROBLEM 4 - Safety awareness courses will become more popular.'
@@ -2496,7 +2495,7 @@ RECODE rc131 (1=5) (2=4) (3=3) (4=2) (5=1) (else=sysmis) into CR24_reverse_coded
 
 VARIABLE LABELS
 CR1_reverse_coded	'156 - CR WORK ETHIC PROBLEM 1 (INCORRECT) - The company is about to go under.'
-CR6_reverse_coded	'161 - CR WORK ETHIC PROBLEM 2 (INCORRECT) - The new employee wants to become friends with Kate so she has someone to talk to when she doesn’t feel like working.'
+CR6_reverse_coded	'161 - CR WORK ETHIC PROBLEM 2 (INCORRECT) - The new employee wants to become friends with Kate so she has someone to talk to when she doesnâ€™t feel like working.'
 CR11_reverse_coded	'166 - CR WORK ETHIC PROBLEM 3 (INCORRECT) - Productivity would increase if work load was distributed among more employees.'
 CR15_reverse_coded	'170 - CR WORK ETHIC PROBLEM 4 (INCORRECT) - Employees who attend training are doing it because they want management to notice.'
 CR20_reverse_coded	'175 - CR WORK ETHIC PROBLEM 5 (INCORRECT) - Managers have been dumping extra work on the administrative assistants so they can get extra time off.'
