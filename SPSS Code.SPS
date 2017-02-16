@@ -1,14 +1,11 @@
 *******************************************************************************
 Created by: Jill Budden
-Client: GM Apprentice
+Client: G
 Test: TMCB 5.2 (TMCB 5.0 + experimental items)
 *******************************************************************************
 *******************************************************************************
 
 -- 3.4.2007 --
-
-*Merge files.
-Hand merged "Merged_Parma, Grand Blanc, Bedford.sav" into "GM Apprentice 2.18.08_birthdate correction MASTER.sav" file because of a lot of inconsistant formats
 
 *Hand created AGE variable:
 1) Copy the birthdate column into excel 
